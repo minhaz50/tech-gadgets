@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Earbuds",
+    "price": 99.99,
+    "description": "Experience crystal-clear sound with our premium wireless earbuds. Featuring active noise cancellation, 30-hour battery life, and water resistance. Perfect for music lovers and professionals on the go.",
+    "longDescription": "These wireless earbuds deliver an immersive audio experience with deep bass and crisp highs. The ergonomic design ensures a comfortable fit for extended wear, while the touch controls make it easy to manage calls and music. With Bluetooth 5.0 technology, enjoy seamless connectivity up to 30 feet away from your device.",
+    "image": "/assets/earbud.jpg",
+    "features": [
+      "Active Noise Cancellation",
+      "30-hour battery life",
+      "Water and sweat resistant",
+      "Touch controls",
+      "Bluetooth 5.0",
+      "Built-in microphone"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Smart Watch",
+    "price": 199.99,
+    "description": "Stay connected and track your fitness with our advanced smartwatch. Monitor your heart rate, track workouts, and receive notifications right on your wrist.",
+    "longDescription": "Our smartwatch combines style and functionality with a sleek, lightweight design. Track your daily activities, monitor your heart rate, and receive smartphone notifications. With a battery life of up to 7 days, it's perfect for active lifestyles. The always-on display ensures you can check the time and your stats at a glance.",
+    "image": "/assets/watch.jpg",
+    "features": [
+      "Heart rate monitoring",
+      "Fitness tracking",
+      "7-day battery life",
+      "Water resistant",
+      "Smartphone notifications",
+      "Customizable watch faces"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Bluetooth Speaker",
+    "price": 79.99,
+    "description": "Portable Bluetooth speaker with 20 hours of playtime. Perfect for outdoor adventures and indoor parties alike.",
+    "longDescription": "This compact yet powerful Bluetooth speaker delivers rich, room-filling sound. The rugged design makes it perfect for outdoor use, while the IPX7 waterproof rating means it can handle splashes and rain. Connect multiple speakers for stereo sound and enjoy up to 20 hours of continuous playtime on a single charge.",
+    "image": "/assets/wireless-speakers.jpg",
+    "features": [
+      "20-hour playtime",
+      "IPX7 waterproof",
+      "Bluetooth 5.0",
+      "Built-in microphone",
+      "Stereo pairing",
+      "Rugged design"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Laptop Backpack",
+    "price": 59.99,
+    "description": "Sleek and durable backpack designed to protect your laptop and essentials. Multiple compartments for organized storage.",
+    "longDescription": "This professional laptop backpack features a padded laptop compartment that fits up to 15.6\" laptops. The water-resistant material keeps your belongings safe in all weather conditions. With multiple compartments and pockets, you can stay organized while carrying your laptop, tablet, notebooks, and other essentials in style.",
+    "image": "/assets/backpack.jpg",
+    "features": [
+      "Fits up to 15.6\" laptops",
+      "Water-resistant material",
+      "USB charging port",
+      "Headphone port",
+      "Multiple compartments",
+      "Padded shoulder straps"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Wireless Mouse",
+    "price": 29.99,
+    "description": "Ergonomic wireless mouse with silent click technology. Perfect for work and gaming.",
+    "longDescription": "This wireless mouse combines comfort and precision with its ergonomic design and high-precision sensor. The silent click technology reduces noise by 90%, making it ideal for office and library use. With a battery life of up to 18 months, you won't need to worry about frequent battery changes.",
+    "image": "/assets/mouse.jpg",
+    "features": [
+      "Silent click technology",
+      "18-month battery life",
+      "2.4GHz wireless",
+      "Ergonomic design",
+      "Plug-and-play",
+      "Optical tracking"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Mechanical Keyboard",
+    "price": 89.99,
+    "description": "RGB mechanical keyboard with customizable keys and responsive switches for an enhanced typing experience.",
+    "longDescription": "This mechanical keyboard features customizable RGB backlighting with multiple lighting effects. The mechanical switches provide tactile feedback and are rated for 50 million keystrokes. The ergonomic design includes a detachable wrist rest for comfortable typing during long sessions. Fully programmable keys allow for complete customization to suit your workflow.",
+    "image": "/assets/keyboard.jpg",
+    "features": [
+      "RGB backlighting",
+      "Mechanical switches",
+      "N-key rollover",
+      "Detachable wrist rest",
+      "Programmable keys",
+      "Braided cable"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Digital Camera",
+    "price": 499.99,
+    "description": "Capture stunning photos and videos with our high-resolution digital camera. Perfect for travel, events, and professional photography.",
+    "longDescription": "This digital camera features a 24.2MP sensor and 4K video recording capability. The lightweight design makes it perfect for both beginners and professionals. With built-in Wi-Fi and Bluetooth, you can instantly share your shots to your smartphone or cloud storage. The interchangeable lens system allows you to capture wide-angle, portrait, and telephoto shots with incredible clarity.",
+    "image": "/assets/camera.jpg",
+    "features": [
+      "24.2MP sensor",
+      "4K video recording",
+      "Built-in Wi-Fi & Bluetooth",
+      "Interchangeable lens system",
+      "Lightweight design",
+      "Fast autofocus"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "DDR4 RAM 16GB",
+    "price": 89.99,
+    "description": "Boost your PC performance with 16GB of high-speed DDR4 RAM. Designed for gaming, productivity, and multitasking.",
+    "longDescription": "This 16GB DDR4 RAM module delivers blazing-fast performance for modern computing needs. With a clock speed of 3200MHz, it ensures smooth multitasking, faster load times, and improved system responsiveness. The low-power design enhances energy efficiency while maintaining stability, making it ideal for gaming rigs and workstations.",
+    "image": "/assets/ram.jpg",
+    "features": [
+      "16GB DDR4 memory",
+      "3200MHz speed",
+      "Low power consumption",
+      "High stability",
+      "Optimized for gaming",
+      "Easy installation"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Android Tablet",
+    "price": 299.99,
+    "description": "Portable and powerful Android tablet with a 10.5-inch display and all-day battery life. Great for entertainment and productivity.",
+    "longDescription": "Enjoy a cinematic viewing experience on a 10.5-inch Full HD display. The tablet features an octa-core processor, 64GB of storage, and expandable memory for all your apps and media. With a battery that lasts up to 12 hours, it's perfect for streaming, gaming, and work. Comes with dual stereo speakers and the latest Android OS for smooth performance.",
+    "image": "/assets/tablet.jpg",
+    "features": [
+      "10.5-inch Full HD display",
+      "Octa-core processor",
+      "64GB storage (expandable)",
+      "12-hour battery life",
+      "Dual stereo speakers",
+      "Android OS"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "LED Monitor 27-inch",
+    "price": 249.99,
+    "description": "Experience crystal-clear visuals with our 27-inch LED monitor. Ideal for gaming, design, and office use.",
+    "longDescription": "This 27-inch Full HD LED monitor offers vibrant colors and wide viewing angles. With a 144Hz refresh rate and 1ms response time, it's perfect for gaming and fast-paced action. The slim bezel design makes it suitable for multi-monitor setups, while the adjustable stand ensures ergonomic comfort. Built-in HDMI and DisplayPort inputs allow for flexible connectivity.",
+    "image": "/assets/monitor.jpg",
+    "features": [
+      "27-inch Full HD display",
+      "144Hz refresh rate",
+      "1ms response time",
+      "Wide viewing angles",
+      "Slim bezel design",
+      "HDMI & DisplayPort inputs"
+    ]
+  }
+]
